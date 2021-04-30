@@ -55,13 +55,14 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .user-description {
-	border-style: solid;
+	border-style: none;
 	border-width: 5px;
 	border-color: #292929;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 1em;
+        margin-left: 400px;
 	padding: 15px;
-	font-size: initial;
+	font-size: 1.4em;
 }
 
 .user-profile {
@@ -69,10 +70,10 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .user-picture {
-	border-style: solid;
+	border-style: none;
 	border-width: 5px;
 	border-color: #292929;
-	margin-top: 20px;
+	margin-top: 30px;
 }
 
 i {
